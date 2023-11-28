@@ -12,12 +12,12 @@
     <ClCompile Include="main.cpp">
       <Filter>main</Filter>
     </ClCompile>
-    <ClCompile Include="fileprocessor.cpp">
+    <ClCompile Include="functions.cpp">
       <Filter>main\NewFilter1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="fileprocessor.h">
+    <ClInclude Include="functions.h">
       <Filter>main\NewFilter1</Filter>
     </ClInclude>
   </ItemGroup>
