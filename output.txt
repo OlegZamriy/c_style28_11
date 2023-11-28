@@ -1,0 +1,6 @@
+Statistics for input.txt:
+Character count: 112
+Line count: 0
+Vowel count: 37
+Consonant count: 51
+Digit count: 4
